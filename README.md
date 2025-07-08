@@ -18,7 +18,8 @@ Pertama, kloning repositori ini ke mesin lokal Anda:
 Bash
 
 git clone https://github.com/kingzhat/ddos.git # (Disarankan untuk mengganti nama repositori di GitHub nanti)
-cd ddos # (Atau nama folder hasil kloning Anda)
+--cd kingzhat-- # (Atau nama folder hasil kloning Anda)
+
 Instal Dependensi:
 Skrip ini menggunakan beberapa pustaka Python yang perlu diinstal. Anda bisa menginstalnya menggunakan pip:
 
